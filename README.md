@@ -91,3 +91,9 @@ saas-churn-analytics-dashboard/
 ├── 03_analysis.sql          # KPI calculation and analysis
 ├── dashboard.png            # Screenshot of Tableau dashboard
 ├── README.md                # Project explanation
+```
+
+## Tableau Public Link
+
+View the interactive dashboard here:
+https://public.tableau.com/views/SaasCustomerChurnRevenueIntelligenceDashboard/SaasCustomerChurnRevenueIntelligenceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
