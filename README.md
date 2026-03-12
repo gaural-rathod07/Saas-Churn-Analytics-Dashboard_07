@@ -96,4 +96,4 @@ saas-churn-analytics-dashboard/
 ## Tableau Public Link
 
 View the interactive dashboard here:
-https://public.tableau.com/views/SaasCustomerChurnRevenueIntelligenceDashboard/SaasCustomerChurnRevenueIntelligenceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+[Tableau Public Link] (https://public.tableau.com/views/SaasCustomerChurnRevenueIntelligenceDashboard/SaasCustomerChurnRevenueIntelligenceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
