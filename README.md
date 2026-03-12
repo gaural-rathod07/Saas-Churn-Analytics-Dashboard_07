@@ -93,6 +93,8 @@ saas-churn-analytics-dashboard/
 ├── README.md                # Project explanation
 ```
 
+---
+
 ## Tableau Public Link
 
 View the interactive dashboard here:
