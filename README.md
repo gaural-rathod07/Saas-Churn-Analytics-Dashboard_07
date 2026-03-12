@@ -23,6 +23,7 @@ Subscription-based SaaS companies face revenue loss if customers churn. My proje
 - **Columns:** 21  
 
 The dataset includes sample customer information such as contract type, tenure, monthly and total charges, and churn status.
+This project uses anonymized, public data for educational purposes.
 
 ---
 
