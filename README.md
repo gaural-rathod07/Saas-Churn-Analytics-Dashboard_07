@@ -84,12 +84,10 @@ The dashboard also includes **key insights and business recommendations**, helpi
 ```text
 saas-churn-analytics-dashboard/
 │
-├── dataset.csv               # Raw dataset
-├── 
 ├── 01_create_database.sql   # Database & table creation
 ├── 02_import_csv.sql        # CSV import script
 ├── 03_analysis.sql          # KPI calculation and analysis
-├── dashboard.png            # Screenshot of Tableau dashboard
+├── Dashboard.png            # Screenshot of Tableau dashboard
 ├── README.md                # Project explanation
 ```
 
