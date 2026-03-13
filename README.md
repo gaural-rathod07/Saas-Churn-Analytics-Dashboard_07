@@ -9,7 +9,7 @@ This project analyzes customer churn behavior and revenue risk for a subscriptio
 Subscription-based SaaS companies face revenue loss if customers churn. My project builds an **end-to-end analytics workflow** to:
 
 1. Clean and structure raw customer data.
-2. Calculate key business metrics like **MRR, churn rate, and revenue at risk**.
+2. Calculate key business metrics like **MRR, churn rate, revenue at risk, ARPU, and CLV**.
 3. Identify high-risk segments based on **contract type, customer tenure, and monthly charges**.
 4. Provide actionable business recommendations.
 5. Visualize insights in a **professional Tableau dashboard** for executives.
