@@ -95,6 +95,9 @@ saas-churn-analytics-dashboard/
 ---
 
 ## Tableau Public Link
+<img width="1499" height="999" alt="Dashboard" src="https://github.com/user-attachments/assets/68c0d9c5-eb15-4fec-83ee-18c194a53751" />
+
+## Tableau Public Link
 
 View the interactive dashboard here:
 [Tableau Public Link](https://public.tableau.com/views/SaasCustomerChurnRevenueIntelligenceDashboard/SaasCustomerChurnRevenueIntelligenceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
